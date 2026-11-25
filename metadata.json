@@ -1,0 +1,6 @@
+{
+  "name": "StyleLab",
+  "description": "Interactive CSS playground for experimenting with Flexbox, Grid, Box Model, Typography, Gradients, Shadows, Borders, Transforms, Transitions, and Animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
